@@ -1,8 +1,8 @@
 class Tloc < Formula
   desc "Count source lines and LLM tokens in one pass"
   homepage "https://github.com/shaunobi/tloc"
-  url "https://github.com/shaunobi/tloc/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "372191e532b4fd26514720c41ee9960c0b3f7ff9c0d6cfffe3cd1675cdf16f1d"
+  url "https://github.com/shaunobi/tloc/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "90dfafe6883aa52171b9cfac5ff32dc8c9c346114e23a4961bc4c2527bfe287d"
   license "MIT"
   head "https://github.com/shaunobi/tloc.git", branch: "main"
 
